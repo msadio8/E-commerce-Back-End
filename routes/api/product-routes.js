@@ -50,6 +50,7 @@ router.post("/", (req, res) => {
       tagIds: [1, 2, 3, 4]
     }
   */
+ 
   Product.create(req.body)
     .then((product) => {
       // if there's product tags, we need to create pairings to bulk create in the ProductTag model
@@ -123,7 +124,7 @@ router.delete("/:id", async (req, res) => {
       where: { id: req.params.id },
     });
     if (!deleteProduct) {
-      res.status(400).json({ message: " No product withi id!" });
+      res.status(400).json({ message: " No product with this id!" });
       return;
     }
     res.status(200).json(deleteProduct);

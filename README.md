@@ -59,3 +59,8 @@ This application won't be deployed please refer to my walthrough video and scree
 
 [walkthrough🎬]
 
+
+![Alt text](<Screenshot 2023-08-20 at 8.17.06 pm.png>)
+
+
+![Alt text](<Screenshot 2023-08-20 at 8.19.10 pm.png>)

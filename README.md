@@ -69,7 +69,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 This application won't be deployed please refer to my walthrough video and screeshots
 
-[walkthrough🎬]
+[walkthrough🎬](https://drive.google.com/file/d/17JHrWwt_n0wawrvhd-g3BLbUYVr76_0j/view)
 
 
 ![Alt text](<Screenshot 2023-08-20 at 8.17.06 pm.png>)
